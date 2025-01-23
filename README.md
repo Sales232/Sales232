@@ -6,7 +6,7 @@ Aqui você encontrará uma coleção diversificada de projetos que refletem minh
 
 - 🤝 Estou disponivel para colaboração em projetos inovadores, e projetos amigaveis.
 
-- 🧠 No momento estou focado em:
+### 🧠 No momento estou focado em:
 
 <div>
   &nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -15,6 +15,7 @@ Aqui você encontrará uma coleção diversificada de projetos que refletem minh
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />        
 </div>&nbsp;
 
+### Redes Sociais:
 &nbsp;<a href="https://www.instagram.com/phsales_/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
