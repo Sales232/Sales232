@@ -1,23 +1,47 @@
-## Hi, My name is Pedro Henrique 👋
-<br>
-Aqui você encontrará uma coleção diversificada de projetos que refletem minha jornada no desenvolvimento de software, automação e soluções criativas. Meu foco principal é criar aplicações eficientes, amigáveis e inovadoras.
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+## Sobre mim
+### Me chamo Pedro Henrique, também conhecido por 'Sales'
 
-- 🌍 Goiás, Brasil
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Graduando em Sistemas de Informação no CENTRO UNIVERSITÁRIO UNIDESC.
+- 💼 Trabalhando como desenvolvedor freelancer.
+- 🌱 Aprendendo mais sobre Java, Programação OO, Princípios SOLID, Docker, AWS e MySQL.
 
-- 🤝 Estou disponivel para colaboração em projetos inovadores, e projetos amigaveis.
+## Minhas Skills
 
-### 🧠 No momento estou focado em:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    
+**Aplicações e dados**
 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=Python&logoColor=blue)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+**Utilidades**
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-![REACT NATIVE](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**DevOps**
 
-### Redes Sociais:
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/phsales_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedronsales/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:pedrohenriquenobresales9@gmail.com)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+<br/>
+
+<a href="https://github.com/Sales232" title="Perfil do Sales">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sales232&theme=dracula&show_icons=true" />
+  
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Sales232&hide=html&layout=compact&theme=dracula)](https://github.com/Sales232/github-readme-stats)
+<a/>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-pedronsales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/pedronsales/)
+[![Gmail Badge](https://img.shields.io/badge/-pedrohenriquenobresales9@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrohenriquenobresales9@gmail.com)](mailto:pedrohenriquenobresales9@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/Sales232?label=follow&style=social)](https://github.com/Sales232)
