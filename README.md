@@ -37,7 +37,7 @@
 <a href="https://github.com/Sales232" title="Perfil do Sales">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sales232&theme=dracula&show_icons=true" />
   
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Sales232&hide=html&layout=compact&theme=dracula)](https://github.com/Sales232/github-readme-stats)
+[![Sales](https://github-readme-stats.vercel.app/api/top-langs/?username=Sales232&hide=html&layout=compact&theme=dracula)](https://github.com/Sales232/github-readme-stats)
 <a/>
 
 ## Onde me encontrar
