@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 ## Sobre mim
-### Me chamo Pedro Henrique, também conhecido por 'Sales'
+### Me chamo Pedro Henrique, também conhecido no Discord por 'Sales'
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Graduando em Sistemas de Informação no CENTRO UNIVERSITÁRIO UNIDESC.
@@ -11,13 +11,13 @@
 
 **Aplicações e dados**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=Python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-333333?style=flat&logo=sap&logoColor=blue)
 
 **Utilidades**
 
