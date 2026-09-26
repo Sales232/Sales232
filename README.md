@@ -17,6 +17,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 **Utilidades**
 
@@ -35,9 +36,8 @@
 <br/>
 
 <a href="https://github.com/Sales232" title="Perfil do Sales">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sales232&theme=dracula&show_icons=true" />
   
-[![Sales](https://github-readme-stats.vercel.app/api/top-langs/?username=Sales232&hide=html&layout=compact&theme=dracula)](https://github.com/Sales232/github-readme-stats)
+[![Sales](https://github-stats-extended.vercel.app/api?username=Sales232&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Sales232&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark)
 <a/>
 
 ## Onde me encontrar
